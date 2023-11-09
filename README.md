@@ -1,4 +1,4 @@
-# rag-agent
+# Embedder
 
 ## this repo ingests PDF's from the 'documents' directory and converts them into Vector Embeddings into Pinecone.
 
