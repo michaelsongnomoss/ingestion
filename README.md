@@ -4,7 +4,7 @@
 
 ## I'm experiencing issues with dependencies so have not included a requirements.txt, however the commands below will run setup.py
 
-<!-- ``
+``
 python3.8 -m venv myenv
 source myenv/bin/activate 
 pip install openai
@@ -15,4 +15,4 @@ pip install 'unstructured[pdf]'
 pip install tiktoken
 cd embedder
 python3 setup.py
-`` -->
+``
