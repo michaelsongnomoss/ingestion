@@ -2,7 +2,7 @@
 
 ## this repo ingests PDF's from the 'documents' directory and converts them into Vector Embeddings into Pinecone.
 
-## I'm experiencing issues with dependencies so have not included a requirements.txt, however the commands below will run setup.py
+I'm experiencing issues with dependencies so have not included a requirements.txt, however the commands below will run setup.py
 
 ```
 python3.8 -m venv myenv
